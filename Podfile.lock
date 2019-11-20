@@ -1,0 +1,41 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - HexColors (4.0.0)
+  - KSGuaidView (0.0.5)
+  - MKColorPicker (1.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5)
+  - HexColors (~> 4.0)
+  - KSGuaidView
+  - MKColorPicker
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  HexColors: 5f95843ef89aff6a72e1fd3a8ebabf205cc43379
+  KSGuaidView: 8a208b7df4140db1c86a8bc1eb170f91b0aabf19
+  MKColorPicker: c75af5993af472935cbfff18bc46d5ed8ff6f638
+
+PODFILE CHECKSUM: a5724bb3435a41a2fb6ea588118e140dc56fbdf8
+
+COCOAPODS: 1.4.0
